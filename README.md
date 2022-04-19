@@ -1,2 +1,16 @@
 # Run
-Collect useful information for run
+
+贡献指南
+
+模板
+
+房价：
+歧视：
+工作机会：
+物资：
+安全：
+移民难度：
+
+移民故事分享
+
+移民路上的坑
